@@ -25,7 +25,7 @@ public class App {
         List<String> list = new ArrayList<String>();
         list.add("test");
         list.add("add new remote branch");
-
+        list.add("modify master");
         SpringApplication.run(App.class, args);
     }
 }
