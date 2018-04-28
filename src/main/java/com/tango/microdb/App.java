@@ -24,6 +24,7 @@ public class App {
     public static void main( String[] args ){
         List<String> list = new ArrayList<String>();
         list.add("test");
+        list.add("modify master");
         SpringApplication.run(App.class, args);
     }
 }
