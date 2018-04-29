@@ -28,6 +28,7 @@ public class App {
         list.add("modify master");
         list.add("fix bug");
         list.add("tango running...");
+        list.add("master merge other");
         SpringApplication.run(App.class, args);
     }
 }
