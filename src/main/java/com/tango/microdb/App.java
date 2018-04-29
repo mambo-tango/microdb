@@ -26,6 +26,7 @@ public class App {
         list.add("test");
         list.add("add new remote branch");
         list.add("modify master");
+        list.add("fix bug");
         SpringApplication.run(App.class, args);
     }
 }
