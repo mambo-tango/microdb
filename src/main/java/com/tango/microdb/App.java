@@ -27,7 +27,6 @@ public class App {
         list.add("add new remote branch");
         list.add("modify master");
         list.add("fix bug");
-        list.add("tango running...");
         SpringApplication.run(App.class, args);
     }
 }
